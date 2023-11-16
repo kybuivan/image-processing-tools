@@ -5,3 +5,6 @@
 
 ## Image Upscaler
 - [Upscayl](https://github.com/upscayl/upscayl) - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. ![Stars](https://img.shields.io/github/stars/upscayl/upscayl.svg?style=social&label=Star)
+
+## Image Colorization
+- [DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!) ![Stars](https://img.shields.io/github/stars/jantic/DeOldify.svg?style=social&label=Star)
